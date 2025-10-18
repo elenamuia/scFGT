@@ -1,7 +1,6 @@
 import os
 # WARNING: Hardcoding API keys is not recommended for shared code.
 # Consider using Colab secrets or environment variables.
-os.environ["WANDB_API_KEY"] = "4e6b8c4cffac1d8cf8ca1a28ff5ef5d77333d2de"
 os.environ["CUDA_VISIBLE_DEVICES"] = "1"
 import numpy as np
 import torch

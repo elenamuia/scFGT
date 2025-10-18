@@ -1,5 +1,5 @@
 import os
-os.environ["WANDB_API_KEY"] = "4e6b8c4cffac1d8cf8ca1a28ff5ef5d77333d2de"
+
 os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 import numpy as np
 import torch
